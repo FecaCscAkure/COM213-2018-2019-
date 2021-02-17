@@ -1,0 +1,18 @@
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking_and_growing.Form1.resources
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking_and_growing.Resources.resources
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking and growing.vbproj.GenerateResource.Cache
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\bin\Debug\shrinking and growing.exe
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\bin\Debug\shrinking and growing.pdb
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\bin\Debug\shrinking and growing.xml
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking and growing.exe
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking and growing.xml
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\shrinking and growing\obj\x86\Debug\shrinking and growing.pdb
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking and growing.exe
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking and growing.xml
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking and growing.pdb
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\bin\Debug\shrinking and growing.exe
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\bin\Debug\shrinking and growing.pdb
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\bin\Debug\shrinking and growing.xml
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking_and_growing.Form1.resources
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking_and_growing.Resources.resources
+C:\Users\EMMANUEL\documents\visual studio 2010\Projects\shrinking and growing\shrinking and growing\obj\x86\Debug\shrinking and growing.vbproj.GenerateResource.Cache

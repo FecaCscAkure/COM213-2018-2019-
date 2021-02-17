@@ -1,0 +1,21 @@
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\bin\Debug\ProgressBar.xml
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.Form1.resources
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.Resources.resources
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.vbproj.GenerateResource.Cache
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.exe
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.xml
+C:\Users\olexkay\AppData\Local\Temporary Projects\ProgressBar\obj\x86\Debug\ProgressBar.pdb
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.exe
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.xml
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.pdb
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\bin\Debug\ProgressBar.xml
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.Form1.resources
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.Resources.resources
+C:\Users\olexkay\Desktop\Visual Basic Assignment\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.vbproj.GenerateResource.Cache
+C:\Users\Adewole Samuel\Desktop\NDCOM2018025\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.exe
+C:\Users\Adewole Samuel\Desktop\NDCOM2018025\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.xml
+C:\Users\Adewole Samuel\Desktop\NDCOM2018025\ProgressBar\ProgressBar\obj\x86\Debug\ProgressBar.pdb

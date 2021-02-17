@@ -1,0 +1,39 @@
+﻿Public Class Form1
+
+    Private Sub Label2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label2.Click
+
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Close()
+
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim p, r, i, fv As Decimal
+        Dim t As Integer
+        p = Convert.ToDecimal(txtp.Text)
+        r = Convert.ToDecimal(txtr.Text)
+        t = Convert.ToInt32(txtt.Text)
+
+        interest(p, r, t)
+
+
+        facevalue(p, i)
+
+
+    End Sub
+
+    Private Sub interest(ByVal p As Decimal, ByVal r As Decimal, ByVal t As Integer)
+        Dim m As Decimal
+        m = (p * r * t) / 100
+        lbli.Text = m
+    End Sub
+
+    Private Sub facevalue(ByVal p As Decimal, ByVal i As Decimal)
+        Dim fv As Decimal
+        fv = p + 1
+        lblfv.Text = fv
+
+    End Sub
+End Class

@@ -1,0 +1,9 @@
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\bin\Debug\1ST SEMESTER.exe
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\bin\Debug\1ST SEMESTER.pdb
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\bin\Debug\1ST SEMESTER.xml
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\_1ST_SEMESTER.Form1.resources
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\_1ST_SEMESTER.Resources.resources
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\1ST SEMESTER.vbproj.GenerateResource.Cache
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\1ST SEMESTER.exe
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\1ST SEMESTER.xml
+C:\Users\EMMANUEL\AppData\Local\Temporary Projects\1ST SEMESTER\obj\x86\Debug\1ST SEMESTER.pdb

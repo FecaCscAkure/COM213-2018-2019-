@@ -1,0 +1,9 @@
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\bin\Debug\LOGIN PP.exe
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\bin\Debug\LOGIN PP.pdb
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\bin\Debug\LOGIN PP.xml
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\_1ST_SEMESTER.Form1.resources
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\_1ST_SEMESTER.Resources.resources
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\LOGIN PP.vbproj.GenerateResource.Cache
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\LOGIN PP.exe
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\LOGIN PP.xml
+C:\Users\EMMANUEL\Documents\Visual Studio 2010\Projects\LOGIN PP\LOGIN PP\obj\x86\Debug\LOGIN PP.pdb

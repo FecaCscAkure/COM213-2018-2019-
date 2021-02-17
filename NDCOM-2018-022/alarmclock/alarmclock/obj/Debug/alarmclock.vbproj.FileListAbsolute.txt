@@ -1,0 +1,32 @@
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\bin\Debug\alarmclock.exe
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\bin\Debug\alarmclock.pdb
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\bin\Debug\alarmclock.xml
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.Form1.resources
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.Resources.resources
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.exe
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.xml
+C:\Users\jokenvillanueva\AppData\Local\Temporary Projects\alarmclock\obj\Debug\alarmclock.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\bin\Debug\alarmclock.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\bin\Debug\alarmclock.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\bin\Debug\alarmclock.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.Form1.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.Resources.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\alarmclock\alarmclock\obj\Debug\alarmclock.vbproj.GenerateResource.Cache
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.xml
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.pdb
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\bin\Debug\alarmclock.exe
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\bin\Debug\alarmclock.pdb
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\bin\Debug\alarmclock.xml
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.Form1.resources
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.Resources.resources
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.vbproj.GenerateResource.Cache
+C:\Users\sada\Desktop\alarmclock\alarmclock\alarmclock\obj\Debug\alarmclock.exe
+C:\Users\sada\Desktop\NDCOM-2018-0\alarmclock\alarmclock\obj\Debug\alarmclock.exe
+C:\Users\sada\Desktop\NDCOM-2018-0\alarmclock\alarmclock\obj\Debug\alarmclock.xml
+C:\Users\sada\Desktop\NDCOM-2018-0\alarmclock\alarmclock\obj\Debug\alarmclock.pdb

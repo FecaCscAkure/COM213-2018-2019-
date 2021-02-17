@@ -1,0 +1,12 @@
+C:\Users\sada\Desktop\029\029\bin\Debug\029.exe
+C:\Users\sada\Desktop\029\029\bin\Debug\029.pdb
+C:\Users\sada\Desktop\029\029\bin\Debug\029.xml
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\029.vbproj.GenerateResource.Cache
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\029.exe
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\029.xml
+C:\Users\sada\Desktop\029\029\obj\x86\Debug\029.pdb
+D:\NDCOM-2018-029\029\obj\x86\Debug\029.exe
+D:\NDCOM-2018-029\029\obj\x86\Debug\029.xml
+D:\NDCOM-2018-029\029\obj\x86\Debug\029.pdb

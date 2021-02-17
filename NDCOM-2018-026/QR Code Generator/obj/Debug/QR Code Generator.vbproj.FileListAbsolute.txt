@@ -1,0 +1,28 @@
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.xml
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\Bunifu_UI_v1.52.dll
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\bin\Debug\MessagingToolkit.QRCode.dll
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.vbprojResolveAssemblyReference.cache
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Resources.resources
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.vbproj.GenerateResource.Cache
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.xml
+F:\VB DOT NET ANIMATIONS\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.xml
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.xml
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.vbprojResolveAssemblyReference.cache
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Resources.resources
+C:\Users\ORIOYE\Downloads\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.vbproj.GenerateResource.Cache
+C:\Users\ORIOYE\Documents\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+C:\Users\ORIOYE\Documents\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+C:\Users\ORIOYE\Documents\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.xml
+C:\Users\ORIOYE\Documents\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb

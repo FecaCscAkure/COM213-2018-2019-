@@ -1,0 +1,12 @@
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\Adewole Samuel\Desktop\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\Adewole Samuel\Desktop\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\Adewole Samuel\Desktop\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb

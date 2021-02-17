@@ -1,0 +1,9 @@
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+C:\Users\Adewole Samuel\AppData\Local\Temporary Projects\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
